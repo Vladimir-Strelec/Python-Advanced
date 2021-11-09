@@ -1,0 +1,2 @@
+.txt
+---D:\My_project\Python_Advanced\Exercise_File_Handling_Python_Advanced\4_Directory_Traversal\text.txt

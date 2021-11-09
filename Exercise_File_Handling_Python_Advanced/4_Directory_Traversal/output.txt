@@ -1,0 +1,7 @@
+.properties
+---D:\My_project\Python_Advanced\Exercise_File_Handling_Python_Advanced\4_Directory_Traversal\grafick.properties
+.py
+---D:\My_project\Python_Advanced\Exercise_File_Handling_Python_Advanced\4_Directory_Traversal\solution.py
+.txt
+---D:\My_project\Python_Advanced\Exercise_File_Handling_Python_Advanced\4_Directory_Traversal\output.txt
+---D:\My_project\Python_Advanced\Exercise_File_Handling_Python_Advanced\4_Directory_Traversal\text.txt
